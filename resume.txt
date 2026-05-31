@@ -1,0 +1,18 @@
+Hossein Mahmoudi
+
+Computer Science Student
+
+Skills:
+Python
+Flask
+HTML
+CSS
+JavaScript
+GitHub
+
+Projects:
+Built AI ATS Resume Assistant using Flask and OpenAI API.
+
+Experience:
+Built frontend and backend web applications.
+Created responsive websites using HTML, CSS, and JavaScript.
